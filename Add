@@ -1,0 +1,4 @@
+a=7
+b=y
+C=a+b
+Print("c")
